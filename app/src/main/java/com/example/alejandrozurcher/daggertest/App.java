@@ -4,6 +4,7 @@ import android.app.Application;
 
 import com.example.alejandrozurcher.daggertest.component.ApplicationComponent;
 import com.example.alejandrozurcher.daggertest.component.DaggerApplicationComponent;
+import com.example.alejandrozurcher.daggertest.module.ApiModule;
 import com.example.alejandrozurcher.daggertest.module.ApplicationModule;
 
 /**
