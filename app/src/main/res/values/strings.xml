@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DaggerTest</string>
+    <string name="network_info"><b>Network Info:</b></string>
+    <string name="username"><b>Username:</b></string>
 </resources>
